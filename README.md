@@ -11,9 +11,9 @@
 
 | Field                      | Value                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------- |
-| **Principal Investigator** | *Zhengxiong Li*                                                                                    |
+| **Principal Investigator** |                                                                               |
 | **Institution**            | *University of Colorado, Denver*                                                                   |
-| **Email**                  | *[zhengxiong.li@ucdenver.edu](mailto:zhengxiong.li@ucdenver.edu)*                                  |
+| **Email**                  |                                |
 | **Field of Science**       | LLM/ Natural Language Processing / Health Informatics                                              |
 | **Keywords**               | clinical NLP, summarization, LLM-as-judge, QLoRA, MIMIC-IV, discharge notes, brief hospital course |
 
